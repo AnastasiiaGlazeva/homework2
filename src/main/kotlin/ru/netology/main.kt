@@ -9,7 +9,6 @@ peoples(980796)
 }
 
 fun moneyTransfer(amount:Int){
-    //val persent = (75/10000)
     val commision = amount*75/10000
     val result = (amount-commision)
     val resultless0 = result-3500
